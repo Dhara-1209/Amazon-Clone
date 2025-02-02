@@ -20,5 +20,4 @@ The project is **inspired by Apna College's YouTube tutorial** on building an Am
 ## Installation & Usage
 
 1. Clone this repository:
-   ```bash
 https://github.com/Dhara-1209/Amazon-Clone
