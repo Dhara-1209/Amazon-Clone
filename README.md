@@ -1,5 +1,5 @@
 # Amazon-Clone
-A simple Amazon homepage clone built using HTML and CSS. This project replicates Amazon’s layout with a navbar, product sections, and footer. Inspired by Apna College's YouTube tutorial, it is designed for learning frontend web development.
+A simple Amazon homepage clone built using HTML and CSS. This project replicates Amazon’s layout with a navbar, product sections, and footer. It is designed for learning frontend web development.
 ## Description
 
 This project is a static webpage that mimics the look and feel of **Amazon's official website**. The webpage includes the following key features:
@@ -9,7 +9,6 @@ This project is a static webpage that mimics the look and feel of **Amazon's off
 - **Footer**: Contains Amazon-like links for "Get to Know Us," "Make Money with Us," "Amazon Payment Products," and "Help & Support."
 - **Responsive Design**: The layout adjusts for different screen sizes using CSS.
 
-The project is **inspired by Apna College's YouTube tutorial** on building an Amazon clone.
 
 ## Technologies Used
 
